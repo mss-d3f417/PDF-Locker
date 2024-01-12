@@ -22,7 +22,7 @@
 
  2. Download Script
 
-> Donwload Zip From : [Link](#)
+> Donwload Zip From : [Link](https://github.com/mss-d3f417/PDF-Locker)
 
  3. Run The Script 🥷
 
