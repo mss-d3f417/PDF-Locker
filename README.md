@@ -8,6 +8,7 @@
  - PyPDF2
  - PyQt5
  - plyer
+
 🥷 The use of this tool is very simple and graphically designed
 ## Support
 
